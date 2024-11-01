@@ -185,4 +185,7 @@ img{
     .barra_iconos__icono{
         padding: .7rem;
     }
+    .pregunta, .lista{
+        max-width: 100%;
+    }
 }
