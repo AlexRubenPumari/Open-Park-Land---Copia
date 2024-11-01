@@ -72,6 +72,7 @@ img{
     align-items: center;
 
     width: 80%;
+    
     height: 30rem;
     margin: 0 auto;
 }
@@ -165,4 +166,12 @@ img{
 }
 .btn_contacto__img{
     width:1.8rem;
+}
+
+@media (max-width:970px){
+    .dudas_lista{
+        flex-wrap: nowrap;
+        height: auto;
+        align-items: center;
+    }
 }
