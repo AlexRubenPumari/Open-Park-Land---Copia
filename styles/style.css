@@ -190,7 +190,8 @@ img{
     }
 }
 @media (orientation: landscape){
-        .header{
-            padding: 2rem 0;
+        .encabezado{
+            padding: 1rem 0;
+            height: auto;
         }
 }
